@@ -1,5 +1,5 @@
 
-# 🌊 Argolas Aquáticas ("Waterful Ring Toss")
+# 🌊 Argolas Aquáticas (Waterful Ring Toss)
 
 Uma recriação nostálgica em Python/Pygame do clássico brinquedo aquático dos anos 90, desenvolvida com física de fluidos simulada e síntese procedural de áudio em tempo real — sem necessidade de assets externos.
 
