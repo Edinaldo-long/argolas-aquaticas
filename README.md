@@ -127,17 +127,4 @@ python argolas_aquaticas.py</code></pre>
   <li><strong>Módulos Nativos:</strong> <code>math</code>, <code>random</code>, <code>array</code>, <code>sys</code>, <code>os</code></li>
 </ul>
 
-<hr>
 
-<h2>👤 Autor</h2>
-
-<p>
-  Desenvolvido por <strong>Edinaldo Santos de Almeida</strong><br>
-  <a href="https://github.com/Edinaldo-long"><img src="https://img.shields.io/badge/GitHub-Edinaldo--long-181717?style=flat-square&logo=github" alt="GitHub"></a>
-</p>
-
-<hr>
-
-<div align="center">
-  <sub>Licenciado sob a Licença MIT. Desenvolvido para fins de estudo de física hidrodinâmica 2D, síntese sonora e computação gráfica.</sub>
-</div>
